@@ -5,3 +5,5 @@ Git Diff Test.
 
 Git is a distributed veersion control system
 
+Git tracks changes.
+
